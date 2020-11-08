@@ -11,7 +11,7 @@
 * Prática do CamelCase;
 ## Autor
 ### Rodrigo José de Almeida
-# --------------------------------------------------------------------
+# -----------------------------------------------------------------
 #### Um pouco sobre o smite.
 Gif do ProPlayer adapting full pistola.
 
