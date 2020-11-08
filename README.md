@@ -11,3 +11,12 @@
 * Prática do CamelCase;
 ## Autor
 ### Rodrigo José de Almeida
+# --------------------------------------------------------------------
+#### Um pouco sobre o smite.
+Gif do ProPlayer adapting full pistola.
+
+![ADAPTINGFULLPISTOLA](https://github.com/rodrigoalmeidaj/PROVA01_POO/blob/master/ADAPTINGFULLPISTOLA.gif)
+
+Abaixo o link das melhores rages do adapting.
+
+[![Video com melhores rages do Adapting](http://img.youtube.com/vi/l5jlm521nyg/0.jpg)](http://www.youtube.com/watch?v=l5jlm521nyg "VideoAdaptingRages")
